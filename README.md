@@ -1,2 +1,2 @@
 # TelegramClone
- my project
+To Be honest this is not my 100% work But I gave my Best i have only very short time to do this project because i am working 2 projects of my current company  all through the weekend  i have cloned the Telegram as much as possible and i have used  1) MUI 2) React-Windows  which is a react virtualization Concept but faced some version issue worked on bot mobile and desktop view as much as possible and API integration is done 3) Context API in used for global state management Sorry  for the delay 
